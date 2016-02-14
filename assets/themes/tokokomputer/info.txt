@@ -1,0 +1,1 @@
+{"ThemeName":"TokoKomputer","Version":"1.0","Author":"Blaster","AuthorURL":"http://www.indraprasetya.com","Category":"General","Description":"TokoKomputer Theme For Blaster CMS"}

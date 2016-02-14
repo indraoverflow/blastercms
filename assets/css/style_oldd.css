@@ -1,0 +1,47 @@
+body{
+	background: #bbdcdc
+}
+
+section{
+	position: relative;
+	width: 100%;	
+}
+
+.container{
+	background: #F6F6F6
+}
+
+.ui-accordion .ui-accordion-content {
+	overflow: inherit;
+	margin:0;
+	padding: 0;
+	position: relative
+}
+
+.menu-left{
+	float: left;
+	margin-right: 15px;
+	background: #D9534F
+}
+
+.content{
+	background: #FF7800;
+	float: left;
+	width: 800px
+}
+
+@media (min-width: 768px) {
+	.menu-left, .menu-left .sf-menu li{
+		width: 100%;
+	}
+}
+@media (min-width: 992px) {
+	.menu-left, .menu-left .sf-menu li{
+		width: 175px;
+	}
+}
+@media (min-width: 1200px) {
+	.menu-left, .menu-left .sf-menu li{
+		width: 180px
+	}
+}
